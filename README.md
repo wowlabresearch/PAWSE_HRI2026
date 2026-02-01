@@ -8,4 +8,4 @@ Supplementary materials for PAWSE (ACM HRI 2026): additional figures for results
 
 
 
-<small>Figures and supplementary materials in this repository are licensed under CC BY 4.0.</small>
+<sub>Figures and supplementary materials in this repository are licensed under CC BY 4.0.</sub>
